@@ -1,0 +1,15 @@
+bert_config: './ALBEF/configs/config_bert.json'
+
+image_res: 224
+distill: False
+vision_width: 768
+embed_dim: 256
+temp: 0.07
+alpha: -1.0
+itm: False
+
+
+
+
+
+

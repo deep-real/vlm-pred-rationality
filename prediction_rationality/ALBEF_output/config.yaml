@@ -1,0 +1,2 @@
+{alpha: -1.0, bert_config: ../rethinking_ft_vlm/ALBEF/configs/config_bert.json,
+distill: false, embed_dim: 256, image_res: 224, itm: false, temp: 0.07, vision_width: 768}
