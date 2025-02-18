@@ -1,0 +1,5 @@
+{alpha: 0.4, ann_root: annotation, batch_size_test: 64, batch_size_train: 32, dataset: flickr,
+image_root: /export/share/datasets/vision/flickr30k/, image_size: 224, init_lr: 1e-05,
+k_test: 128, max_epoch: 6, med_config: ../rethinking_ft_vlm/BLIP/configs/med_config.json,
+min_lr: 0, negative_all_rank: false, pretrained: ./my_ckpts/BLIP.pth,
+queue_size: 57600, vit: base, vit_ckpt_layer: 0, vit_grad_ckpt: false, weight_decay: 0.05}
